@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879538281281",
+    "project_id": "flat-of-minsk-firebase",
+    "storage_bucket": "flat-of-minsk-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879538281281:android:f552322e35495eb1949fc0",
+        "android_client_info": {
+          "package_name": "com.example.flat_of_minsk_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQWlDwDixLCLMd47Fc1E8BAkKvTXlP0iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
